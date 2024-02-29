@@ -1,0 +1,13 @@
+com.example.favorite_places.app-jetified-annotation-experimental-1.1.0-0 /Users/cong.nguyen/.gradle/caches/transforms-3/2cc651390491592b40867e0e02aeedd3/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.favorite_places.app-jetified-window-1.0.0-beta04-1 /Users/cong.nguyen/.gradle/caches/transforms-3/39e90bbacc593e90b91173930d304146/transformed/jetified-window-1.0.0-beta04/res
+com.example.favorite_places.app-core-1.6.0-2 /Users/cong.nguyen/.gradle/caches/transforms-3/3e8453158d270920c3a6f4280ff5862f/transformed/core-1.6.0/res
+com.example.favorite_places.app-jetified-window-java-1.0.0-beta04-3 /Users/cong.nguyen/.gradle/caches/transforms-3/85be3b129a4c403f71745a501adf0b6d/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.favorite_places.app-debug-4 /Users/cong.nguyen/Documents/Documents/flutter/flutter-favorite-place/android/app/src/debug/res
+com.example.favorite_places.app-main-5 /Users/cong.nguyen/Documents/Documents/flutter/flutter-favorite-place/android/app/src/main/res
+com.example.favorite_places.app-pngs-6 /Users/cong.nguyen/Documents/Documents/flutter/flutter-favorite-place/build/app/generated/res/pngs/debug
+com.example.favorite_places.app-resValues-7 /Users/cong.nguyen/Documents/Documents/flutter/flutter-favorite-place/build/app/generated/res/resValues/debug
+com.example.favorite_places.app-rs-8 /Users/cong.nguyen/Documents/Documents/flutter/flutter-favorite-place/build/app/generated/res/rs/debug
+com.example.favorite_places.app-mergeDebugResources-9 /Users/cong.nguyen/Documents/Documents/flutter/flutter-favorite-place/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.favorite_places.app-mergeDebugResources-10 /Users/cong.nguyen/Documents/Documents/flutter/flutter-favorite-place/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.favorite_places.app-merged_res-11 /Users/cong.nguyen/Documents/Documents/flutter/flutter-favorite-place/build/app/intermediates/merged_res/debug
+com.example.favorite_places.app-packaged_res-12 /Users/cong.nguyen/Documents/Documents/flutter/flutter-favorite-place/build/path_provider_android/intermediates/packaged_res/debug

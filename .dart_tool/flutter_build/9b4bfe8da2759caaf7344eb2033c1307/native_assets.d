@@ -1,0 +1,1 @@
+ /Users/cong.nguyen/Documents/Documents/flutter/flutter-favorite-place/.dart_tool/flutter_build/9b4bfe8da2759caaf7344eb2033c1307/native_assets.yaml: 
