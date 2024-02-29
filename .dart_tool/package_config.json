@@ -74,6 +74,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "flutter_riverpod",
+      "rootUri": "file:///Users/cong.nguyen/.pub-cache/hosted/pub.dev/flutter_riverpod-2.4.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///usr/local/Caskroom/flutter/3.3.9/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -302,7 +308,7 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-02-29T13:41:12.568962Z",
+  "generated": "2024-02-29T15:13:00.792611Z",
   "generator": "pub",
   "generatorVersion": "3.4.0-175.0.dev"
 }
