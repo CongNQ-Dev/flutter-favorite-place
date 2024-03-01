@@ -8,8 +8,6 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 class PlacesScreen extends ConsumerWidget {
   PlacesScreen({super.key});
 
-  List<Place> placeList = [];
-
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final userPlaces = ref.watch(userPlacesProvider);
@@ -25,8 +23,11 @@ class PlacesScreen extends ConsumerWidget {
                 icon: Icon(Icons.add))
           ],
         ),
-        body: PlacesList(
-          places: userPlaces,
+        body: Padding(
+          padding: EdgeInsets.all(8),
+          child: PlacesList(
+            places: userPlaces,
+          ),
         ));
   }
 }

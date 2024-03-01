@@ -16,7 +16,7 @@ class _NewPlaceScreenState extends ConsumerState<NewPlaceScreen> {
   File? _selectedImage;
   void _savePlace() {
     final enteredText = _titleController.text;
-    if (enteredText.isEmpty || _selectedImage != null) {
+    if (enteredText.isEmpty || _selectedImage == null) {
       return;
     }
     ref
