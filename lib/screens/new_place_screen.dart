@@ -19,7 +19,9 @@ class _NewPlaceScreenState extends ConsumerState<NewPlaceScreen> {
   PlaceLocation? _selectedLocation;
   void _savePlace() {
     final enteredText = _titleController.text;
-    if (enteredText.isEmpty || _selectedImage == null||_selectedLocation==null) {
+    if (enteredText.isEmpty ||
+        _selectedImage == null ||
+        _selectedLocation == null) {
       return;
     }
     ref
